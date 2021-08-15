@@ -1,3 +1,2 @@
 # SpaceShip-Shooter
-2D Space Shooter game
-created in python language
+2D spaceship shooter game created using python and pygame module.
